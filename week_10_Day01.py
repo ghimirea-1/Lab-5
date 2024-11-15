@@ -8,8 +8,8 @@ top = Tk()
 
 
 
-top.geometry("700x700")
-answer = Text(width=35, height=2)
+top.geometry("600x700")
+answer = Text(width=47, height=2)
 answer.place(x=100, y=100)
 
 def show(x):
